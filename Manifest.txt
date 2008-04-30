@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/timeliner
+lib/timeliner.rb
+test/test_timeliner.rb

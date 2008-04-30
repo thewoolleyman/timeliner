@@ -1,0 +1,6 @@
+=== 0.1.0 / 2008-04-30
+
+* Initial Project Creation
+
+  * Migrate from old location
+
